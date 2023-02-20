@@ -1,0 +1,352 @@
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1rem;
+    background-color: #ffecec;
+}
+section{
+    /* margin: 20px 0px;
+    padding: 20px 0px;
+    background-color: pink; */
+}
+.bgbanner{
+    background-image: url("https://images.fpt.shop/unsafe/fit-in/filters:quality(95):fill(transparent)/fptshop.com.vn/Uploads/Originals/2023/1/31/638107835827567565_desk-header-bg.png");
+}
+.slides{
+    width: 65%;
+    float: left;
+}
+.slides>img{
+    width: 100%;
+}
+.bannerphu{
+    width: 34%;
+    float: left;
+}
+.bannerphu>img{
+    width: 100%;
+}
+.row{
+    float: left;
+    width: 100%;
+}
+.martb20{
+    margin: 20px 0px;
+}
+.bgdo{
+    background-color: #cd1818;
+}
+.container{
+    width: 1600px;
+    margin: 0 auto;
+}
+.container>img{
+    width: 10%;
+}
+.bgden{
+    background-color: #252525;
+}
+.boxbogoc{
+    float: left;
+    width: calc(100% - 20px);
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+.wrap>form{
+    float: left;
+ }
+ .search{
+ width: 700px;
+ }
+ .searchTerm {
+     width: 50%;
+     border: 3px solid white;
+     padding: 10px;
+     height: 20px;
+ }
+ .searchButton {
+     width: 50px;
+     height: 40px;
+     background: black;
+     color: white;
+     font-size: 30px;
+ }
+.box6{
+    float: left;
+    width: 16.666%;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 5px #CCC;
+    position: relative;
+    min-height: 150px;
+}
+.box6 img{
+    width: 25%;
+}
+.trontron{
+    position: absolute;
+    top: 10px;
+    left: calc(50% - 50px);
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    background-color: #CCC;
+    z-index: 1 ;
+}
+.pro{
+    position: absolute;
+    width: 100%;
+    top: 20px;
+    left: 0px;
+    z-index: 2;
+}
+.thongtin{
+    margin-left: 20%;
+    height: 50px;
+    
+}
+.thongtin a{
+    margin: 10px;
+    text-decoration: none;
+    color: white;
+}
+.bgden{
+    text-align: center;
+    background-color: black;
+    line-height: 50px;
+}
+.cd>a{
+    margin-left: 10px;
+    color: white;
+    text-decoration: none   ;
+}
+.cd>i{
+    color: white;
+    margin: 5px;
+}
+.pro>a{
+    font-size: 20px;
+    text-decoration: none;
+    color: #999;
+}
+.pro:hover a{
+    color: green;
+}
+.pro:hover img{
+    transform: translateY(-5px);
+}
+.boxbogocxanh>h1{
+    color: #cb1c22;
+}
+.boxbogocxanh{
+    float: left;
+    width: 1580px;
+    background-color: white;
+    padding: 20px 10px;
+    border-radius: 10px;
+}
+.box4{
+    float: left;
+    width: calc(25% - 20px);
+    background-color: white;
+    border-radius: 10px;
+    margin: 0px 10px;
+    
+}
+.boximg{
+    text-align: center;
+    position: relative;
+    min-height: 200px;
+}
+.boximg img{
+    width: 60%;
+}
+.mlr10{
+    margin: 0 10px;
+}
+.tragop{
+    bottom: 35px;
+    position: absolute;
+    background-color: #ea9d02;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+.giamgia{
+    position:absolute;
+    bottom: 5px;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    padding: 5px;
+    font-size: 15px;
+}
+p>span{
+    background-color: #cb1c22;
+    border-radius: 15px;
+    padding: 5px;
+    color: white;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+p>del{
+    color: #999;
+    float: right;
+}
+.box5{
+    float: left;
+    width: 1600px;
+    background-color: #252525;
+    border-radius: 10px;
+    margin: 20px 0px;
+    text-align: center;
+    margin-left: 120px;
+    
+}
+#pr>span{
+    width: 100px;
+    border: 1px solid bisque;
+    border-radius: 5px;
+    color: black;
+    background-color: darkkhaki;
+}
+.box5>h2{
+    color: darkseagreen;
+}
+.box5>h1{
+    color: white;
+    font-size: 30px;
+}
+.box5>h3{
+    color: white;
+}
+h3>span{
+    color: darkseagreen;
+}
+.boxtivi{
+        border-radius: 5px;
+        width: 1600px;
+        margin: 20px 0px;
+        margin-left: 120px;
+        background-color: white;
+}
+.boxtivi4>img{
+        margin-left: 100px;
+}
+.boxtivi>strong a{
+        text-decoration: none;
+        color: #252525;
+        font-size: 20px;
+}
+.boxanhnen{
+        float: left;
+        border-radius: 10px;
+        margin: 20px 0px;
+}
+.boxanhnen>img{
+        width: 1600px;
+}
+.boxttonl{
+    float: left;
+    margin: 20px 0px;
+    width: 1600px;
+    border: 1px solid ghostwhite;
+    background-color: white;
+    border-radius: 5px;
+}
+.box3{
+    width: 100%;
+}
+.box3>img{
+    width: 31%;
+    margin: 5px;
+}
+.boxttonl>strong>a{
+    text-decoration: none;
+    font-size: 20px;
+    color: black;
+    margin: 10px;
+}
+.boxdvti{
+    float: left;
+    width: 1600px;
+    border: 1px solid ghostwhite;
+    background-color: white;
+    border-radius: 10px;
+    margin: 20px 0px;
+}
+.boxtt{
+    float: left;
+    margin-left: 100px;
+    border: 1px solid black;
+    width: 18%;
+    height: 10%;
+    border-radius: 10px;
+    background-color: #f0fff4;
+    
+}
+.boxtt>h4{
+    margin: 10px;
+}
+.boxtt>h5{
+    margin: 10px;
+}
+.boxdvti>h1{
+    margin: 10px;
+}
+.box7{
+    float: left;
+    width: 200px;
+    text-align: center;
+    background-color: white;
+    box-shadow: 0px 0px 5px #CCC;
+    position: relative;
+    min-height: 150px;
+}
+.pkh{
+    float: left;
+    width: 1600px;
+    margin-left: 120px;
+    background-color: white;
+}
+.pkh>h1{
+    font-size: 25px;
+    margin: 10px;
+}
+.pro>i{
+    width: 100px;
+}
+.boxcuoi{
+    float: left;
+    width: 1600px;
+    border-radius: 10px;
+    margin: 20px 0px;
+    margin-left: 120px;
+    background-color: white;
+}
+.box2>img{
+    float: left;
+    width: 33%;
+    margin: 1px;
+}
+.box8{
+    border: 1px;
+    background-color: white;
+    height: 370px;
+    width: 100%;
+    display: flex;
+}
+.box8 .thongtin{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-left: 120px;
+}
+.thongtin>h1{
+    color: #cb1c22;
+}
+.thongtin:hover{
+    color: blue;
+    text-decoration:underline
+}
